@@ -1,0 +1,16 @@
+{
+  "short_name": "墨印",
+  "name": "墨印: 钢笔与墨水收藏家",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#201b43",
+  "background_color": "#201b43",
+  "description": "一款优雅的iOS风格应用程序，用于记录您的钢笔收藏。"
+}
